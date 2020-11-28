@@ -1,4 +1,4 @@
-HELP.md
+# HELP.md
 .gradle
 build/
 !gradle/wrapper/gradle-wrapper.jar
@@ -7,11 +7,11 @@ build/
 
 ### STS ###
 .apt_generated
-.classpath
-.factorypath
-.project
-.settings
-.springBeans
+#.classpath
+#.factorypath
+#.project
+#.settings
+#.springBeans
 .sts4-cache
 bin/
 !**/src/main/**/bin/
@@ -34,4 +34,4 @@ out/
 /.nb-gradle/
 
 ### VS Code ###
-.vscode/
+# .vscode/
